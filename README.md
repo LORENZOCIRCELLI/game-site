@@ -1,73 +1,74 @@
-# React + TypeScript + Vite
+# 🌍 Guardiões do Planeta
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Guardiões do Planeta é um jogo mobile 2D em estilo pixel art, desenvolvido na Unity, com o objetivo de ensinar conceitos básicos de sustentabilidade e educação ambiental para crianças do ensino fundamental.
 
-Currently, two official plugins are available:
+O projeto é inspirado nos Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎮 Sobre o Jogo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+No jogo, o jogador assume o papel de um jovem guardião que precisa ajudar o planeta resolvendo problemas ambientais em diferentes cenários, como cidades, florestas e rios.
 
-## Expanding the ESLint configuration
+Cada fase apresenta um desafio simples e educativo, incentivando boas práticas como reciclagem, economia de água e uso de energia limpa.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🎯 Objetivo
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+O objetivo do projeto é:
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- Incentivar a consciência ambiental em crianças
+- Ensinar conceitos básicos de sustentabilidade de forma lúdica
+- Demonstrar o uso de jogos digitais como ferramenta educacional
+
+---
+
+## 🧠 Público-Alvo
+
+- Crianças do ensino fundamental (6 a 14 anos)
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- Unity (Game Engine)
+- C#
+- Pixel Art 2D
+
+---
+
+## 📱 Plataforma
+
+- Dispositivos Mobile (Android / iOS)
+
+---
+
+## 🌱 Temas abordados
+
+O jogo trabalha conceitos relacionados a:
+
+- Reciclagem
+- Preservação da água
+- Energia sustentável
+- Proteção das florestas
+- Consciência social
+
+---
+
+## 🚀 Status do Projeto
+
+Em desenvolvimento.
+
+---
+
+## 🧑‍💻 Author
+
 ```
+Lorenzo Calabrese Circelli
+Computer Engineering Student
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Focus areas: Algorithms, Systems Programming, and Applied Computing
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+Passionate about mathematics, physics, and software engineering
 ```
