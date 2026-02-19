@@ -1,5 +1,3 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import logo from '/logo.png'
 import './App.css'
 import { motion } from "motion/react"
