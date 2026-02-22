@@ -37,7 +37,7 @@ export default function GameDevelopmentSection() {
           whileHover={{ scale: 1.02 }}
           className="bg-[#211821] rounded-2xl p-8 shadow-lg"
         >
-          <h3 className="text-2xl font-bold mb-4">🎯 Objetivos</h3>
+          <h3 className="text-2xl font-bold mb-4">Objetivos</h3>
           <ul className="text-sm space-y-2 list-disc list-inside">
             <li>Promover educação ambiental de forma lúdica</li>
             <li>Estimular hábitos sustentáveis nas crianças</li>

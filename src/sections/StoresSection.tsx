@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 
 export default function DownloadSection() {
   return (
-    <section className="w-full bg-[#140f14] text-white py-16 flex justify-center">
+    <section className="w-full bg-[#140f14] text-white py-16 px-8 flex justify-center">
       
       <motion.div
         initial={{ opacity: 0, y: 30 }}
