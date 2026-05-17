@@ -12,6 +12,7 @@ No jogo, o jogador assume o papel de um jovem guardião que precisa ajudar o pla
 
 Cada fase apresenta um desafio simples e educativo, incentivando boas práticas como reciclagem, economia de água e uso de energia limpa.
 
+
 ---
 
 ## 🎯 Objetivo
@@ -59,6 +60,14 @@ O jogo trabalha conceitos relacionados a:
 ## 🚀 Status do Projeto
 
 Em desenvolvimento.
+
+---
+
+## Projeto de Pesquisa:
+
+JOGOS VIRTUAIS EDUCATIVOS COMO FERRAMENTA DE SENSIBILIZAÇÃO AMBIENTAL PARA CRIANÇAS DO ENSINO INFANTIL E FUNDAMENTAL
+
+Projeto pertencente a Prof. Dra. Isadora Alves Lovo Ismail, a quem eu agradeço muito pela oportunidade.
 
 ---
 
