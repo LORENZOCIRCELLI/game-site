@@ -75,9 +75,10 @@ Projeto pertencente a Prof. Dra. Isadora Alves Lovo Ismail, a quem eu agradeço 
 
 ```
 Lorenzo Calabrese Circelli
-Computer Engineering Student
+Estudante de Engenharia da Computação
 
-Focus areas: Algorithms, Systems Programming, and Applied Computing
+Áreas de interesse: Algoritmos, Programação de Sistemas e Computação Aplicada
 
-Passionate about mathematics, physics, and software engineering
+Apaixonado por matemática, física, engenharia de software
+e pelo estudo de tecnologias voltadas à inteligência artificial
 ```
